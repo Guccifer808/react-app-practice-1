@@ -1,3 +1,12 @@
+# First React.js app with minimal UI elements, but decent number of features, hooks, API usage, etc.
+
+
+# React 18.2.0
+# Axios 0.27.2
+# IntersectionObserver API
+# JSONplaceholder API
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

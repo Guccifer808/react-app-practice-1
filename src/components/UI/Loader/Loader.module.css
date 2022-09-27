@@ -1,0 +1,25 @@
+
+.loader {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px dashed teal;
+    align-items: center;
+    margin-top: 50px;
+    animation: rotate 5s linear infinite; /*добавляем animation на класс */
+}
+
+/* Анимация по ключевым кадрам @keyframes и название
+from -> to
+после добавляем animation на класс 
+scale() - увеличение
+*/
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg) scale(1);
+    }
+    to {
+        transform: rotate(360deg) scale(1.25);
+    }
+}

@@ -90,6 +90,7 @@ function Posts() {
       onChange={setLimit}
       options={value => setLimit(value)} 
       defaultValue="Amount of elements on the page"
+      // eslint-disable-next-line react/jsx-no-duplicate-props
       options={[
         {value: 5, name: '5'},
         {value: 10, name: '10'},

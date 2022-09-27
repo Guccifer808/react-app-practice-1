@@ -1,8 +1,8 @@
 {
-  "name": "portfolio-app-practice",
+  "name": "react-app-practice",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://guccifer808.github.io",
+  "homepage": "http://guccifer808-react-practice-1.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
